@@ -16,11 +16,12 @@ install:
   - cmd: SET M2_HOME=C:\Program Files (x86)\Apache\Maven
   - cmd: SET M2=%M2_HOME%\bin
 build_script:
-  - SET M2_HOME=C:\Program Files (x86)\Apache\Maven
   - ls -l
+  - SET M2_HOME=C:\Program Files (x86)\Apache\Maven
   - mvn clean package --batch-mode -DskipTest
   - mvn --version
 test_script:
+  - SET M2_HOME=C:\Program Files (x86)\Apache\Maven
   - mvn clean install --batch-mode
 cache:
   - C:\maven\

@@ -1,4 +1,6 @@
-https://ci.appveyor.com/project/myaccount/myproject/branch/master
+image::https://ci.appveyor.com/api/projects/status/bg6i06kfrjrbboq8?svg=true
+:target: https://ci.appveyor.com/project/russellMichal/error-prone
+:alt: AppVeyor Build Status
 # Error Prone
 
 Error Prone is a static analysis tool for Java that catches common programming

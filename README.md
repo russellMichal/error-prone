@@ -1,3 +1,4 @@
+https://ci.appveyor.com/project/russellMichal/error-prone
 # Error Prone
 
 Error Prone is a static analysis tool for Java that catches common programming

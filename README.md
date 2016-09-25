@@ -1,4 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/bg6i06kfrjrbboq8?svg=true)](https://ci.appveyor.com/project/russellMichal/error-prone)
+[![Build status](https://travis-ci.org/russellMichal/error-prone.svg?branch=master)]
+(https://travis-ci.org/russellMichal/error-prone)
 
 # Error Prone
 
